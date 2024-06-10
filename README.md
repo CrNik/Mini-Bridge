@@ -1,1 +1,2 @@
 Minibridge is a "zero-fee" cross-chain tool that offers multi-chain support for BTC/EVM/non-EVM and features such as fast transactions. It was developed by the Chaineye team specifically for users' small-amount transfer scenarios. Launched for less than half a year, Minibridge has already processed 300K transactions and served 100K Web3 users. In user ratings on dappsheriff.com, Minibridge ranks first among all cross-chain bridge projects and was awarded "Best Tool of the Year" in the "PARTY AWARD 2024" annual selection by PA News.
+
