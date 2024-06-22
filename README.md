@@ -3,3 +3,5 @@ Minibridge is a "zero-fee" cross-chain tool that offers multi-chain support for 
 Key Features
 
 Chaineye was born from the Web3 community and we build products for the community’s needs. To better serve the community, Chaineye has built many free tools such as Onchain Map, CEX Transfer Fees, Multichain Gas, RPC List, etc. The Mini Bridge was designed specifically for retail investors with small-amount cross-chain transfer requests, including the following features:
+
+Zero bridge fees: We don’t charge any bridge fees at all. This means users will get the same amount of assets on the destination chains. We are built for retail investors and we believe our community like free services. Only a minimum gas fee on the destination chain is charged.
