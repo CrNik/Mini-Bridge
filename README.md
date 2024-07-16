@@ -8,3 +8,4 @@ Zero bridge fees: We don’t charge any bridge fees at all. This means users wil
 
 Fastest transactions: Our bridge has the fastest bridging experience across all existing bridges. The bridging time largely depends on the confirmation time of source and destination blockchains. We don’t want our users to wait any longer than the evitable blockchain transaction time.
 
+Designed especially for small-amount transfer scenarios such as gas refill, airdrop claiming, moving funds, etc. It helps to save huge money and time for individual investors when doing so.
